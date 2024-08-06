@@ -1,6 +1,9 @@
 # my-personal-blog-zindua-school
 Personal Blog Website
 
+Find live link here
+https://chris-kamau.github.io/my-personal-blog-zindua-school/
+
 Overview
 This repository contains a personal blog website consisting of three main pages:
 
